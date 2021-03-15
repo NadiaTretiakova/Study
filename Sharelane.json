@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "userId": 423450,
+      "firstName": "Linda",
+      "lastName": "Khan",
+      "email": "linda_khan@5607.3.sharelane.com",
+      "password": 1111,
+      "zip_code": 94118,
+      "srteet": "12 Share Lane",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "orderedBooks": [
+        {
+          "bookId": 1
+        },
+        {
+          "bookId": 2
+        }
+      ]
+    },
+    {
+      "userId": 423451,
+      "firstName": "Eing",
+      "lastName": "Baker",
+      "email": "eing_baker@614.47.sharelane.com",
+      "password": 1111,
+      "zip_code": 94118,
+      "srteet": "12 Share Lane",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "books": [
+    {
+      "bookId": 1,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "price": 1000
+    },
+    {
+      "bookId": 2,
+      "title": "White Fang",
+      "author": "Jack London",
+      "price": 1000
+    }
+  ]
+}
